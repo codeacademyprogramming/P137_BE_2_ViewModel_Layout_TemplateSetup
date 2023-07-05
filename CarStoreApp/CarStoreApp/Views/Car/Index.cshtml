@@ -1,0 +1,14 @@
+﻿@model List<Car>
+@{
+    ViewData["title"] = "index";
+}
+
+
+    <h1>Cars:</h1>
+    <ul>
+        @foreach (Car item in Model)
+        {
+            <li>@item.Brand @item.Model</li>
+        }
+    </ul>
+

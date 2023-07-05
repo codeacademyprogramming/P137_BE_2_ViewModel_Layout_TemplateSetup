@@ -1,0 +1,17 @@
+﻿@model CarDetailViewModel
+@{
+    ViewData["title"] = "detail";
+}
+
+
+    <h2>Model: @Model.Car.Model</h2>
+    <h2>Brand: @Model.Car.Brand</h2>
+    <h2>Year: @Model.Car.Year</h2>
+
+    <h1>Brands</h1>
+    <ul>
+        @foreach (var item in Model.Brands)
+        {
+            <li>@item.Name</li>
+        }
+    </ul>

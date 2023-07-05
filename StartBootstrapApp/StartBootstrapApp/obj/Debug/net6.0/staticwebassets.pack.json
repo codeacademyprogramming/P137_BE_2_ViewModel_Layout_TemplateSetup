@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\avataaars.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\avataaars.svg"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\portfolio\\cake.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\cake.png"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\portfolio\\circus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\circus.png"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\portfolio\\game.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\game.png"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\portfolio\\safe.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\safe.png"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\img\\portfolio\\submarine.png",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\submarine.png"
+    },
+    {
+      "Id": "C:\\Users\\elchin\\Desktop\\CodeLessons\\P137\\2. 05-07-2023\\StartBootstrapApp\\StartBootstrapApp\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StartBootstrapApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StartBootstrapApp.props",
+      "PackagePath": "build\\StartBootstrapApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StartBootstrapApp.props",
+      "PackagePath": "buildMultiTargeting\\StartBootstrapApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StartBootstrapApp.props",
+      "PackagePath": "buildTransitive\\StartBootstrapApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

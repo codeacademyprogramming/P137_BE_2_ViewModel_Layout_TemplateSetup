@@ -1,0 +1,25 @@
+﻿@model HomeViewModel
+@{
+    ViewData["title"] = "index";
+}
+
+
+<h1>Home Page!</h1>
+
+
+<h1>Brands:</h1>
+<ul>
+    @foreach (var item in Model.Brands)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
+
+<h1>Cars:</h1>
+<ul>
+    @foreach (Car item in Model.Cars)
+    {
+        <li>@item.Model @item.Brand</li>
+    }
+</ul>
+
